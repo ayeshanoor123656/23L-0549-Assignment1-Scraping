@@ -6,8 +6,8 @@ Two product datasets collected via web scraping from public sandbox e-commerce s
 
 | File | Rows | Source site type | Description |
 |---|---|---|---|
-| `23L_XXXX_versionA_dynamic_products.csv` | 147 | Infinite-scroll (JS-rendered) | Clothing products scraped from an infinite-scroll demo store |
-| `23L_XXXX_versionA_static_products__1_.csv` | 3,000 | Static, paginated (94 pages) | Video game products scraped from a paginated demo store |
+| `23L_0549_versionA_dynamic_products.csv` | 147 | Infinite-scroll (JS-rendered) | Clothing products scraped from an infinite-scroll demo store |
+| `23L_0549_versionA_static_products_.csv` | 3,000 | Static, paginated (94 pages) | Video game products scraped from a paginated demo store |
 
 ## `23L_0549_versionA_dynamic_products.csv`
 
